@@ -108,7 +108,8 @@ public class DBAdapter
      * Check if the database already exist to avoid re-copying the file each time you open the application.
      * @return true if it exists, false if it doesn't
      */
-    private static boolean DBExists() {
+    @SuppressWarnings("deprecation")
+	private static boolean DBExists() {
     	SQLiteDatabase db = null;
     	
     	try {

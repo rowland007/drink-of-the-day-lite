@@ -26,6 +26,7 @@ public class SplashScreenActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
+		@SuppressWarnings("deprecation")
 		MyStateSaver data = (MyStateSaver) getLastNonConfigurationInstance();
 		if (data != null) {
 			// Show splash screen if still loading
