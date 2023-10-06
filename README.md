@@ -5,7 +5,7 @@
 [Drink of the Day](https://github.com/rowland007/drink-of-the-day-lite) by [Randall Rowland](https://randyrowland.me) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1) <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1">
 
 ---
-![logo](/docs/static/images/drink-of-the-day-logo.png)  
+![logo](https://github.com/rowland007/drink-of-the-day-lite/blob/e8cdbae171309c884d3123745bbd2ae49cd5a4da/docs/static/images/drink-of-the-day-logo.png)  
 I started this project back in 2009 or 2010. The idea came from a friend. He used to say everyday had a theme for a type drink. We ended up hanging up a repeating seven day calendar that just showed these themes. This is my very first Android application I made.
 
 * Sometimes Sunday
@@ -22,4 +22,4 @@ It was originally designed for Android 4.0 "Ice Cream Sandwich".
 
 On loading of the application, a SQL database is created and populated with the drinks. Then at random it pulls and displays the drinks information from the database. If you  do not like that drink, you can press the button at the bottom to get another random drink.
 
-[![Get it on Google Play](/docs/static/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.randarlabs.android)
+[![Get it on Google Play](https://github.com/rowland007/drink-of-the-day-lite/blob/e8cdbae171309c884d3123745bbd2ae49cd5a4da/docs/static/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.randarlabs.android)
